@@ -171,12 +171,6 @@ curl -X POST "http://127.0.0.1:8000/predict" -H "Content-Type: application/json"
 
 ---
 
-## License
-
-[MIT License](LICENSE) (add your license file if needed)
-
----
-
 ## Acknowledgements
 
 - [Yelp Open Dataset](https://www.yelp.com/dataset)
